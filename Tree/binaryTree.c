@@ -62,8 +62,8 @@ struct node* insert(struct node* root, int value)
 int main() 
 { 
 	/*	
-	  	   50 
-		 /	 \ 
+	       50 
+	      /	 \ 
 	    30	 70 
    	   / \   / \ 
 	 20 40   60 80 */
